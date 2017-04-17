@@ -6,10 +6,15 @@
 This SDK is for WisCore hardware development platform base on OpenWrt system. Software features include three product series: WisAp, WisAvs(Amazon Alexa Avs function), WisGw(wiscore gateway)
 
 * [Introduction](Introduction)
- * [Hardware](Hardware)
- * [Software](Software)    
+  * [Hardware](Hardware)
+  * [Software](Software) 
+
 * [Quick Start](QuickStart)
- * [Compile source code](CompileSdk)
-  
+  * [WisAvs](WisAvs)
+  * [WisAp](WisAp)
+  * [WisGw](WisGw)
+
+
+* [Programming guide](Programming guide)
     
     
