@@ -9,7 +9,7 @@ This SDK is for WisCore hardware development platform base on OpenWrt system. So
   * [Hardware](Hardware)
   * [Software](Software) 
 
-* [Quick Start](QuickStart)
+* [Quick Start](QuickStart.md)
   * [WisAvs](WisAvs)
   * [WisAp](WisAp)
   * [WisGw](WisGw)
