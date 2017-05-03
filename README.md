@@ -10,9 +10,9 @@ This SDK is for WisCore hardware development platform base on OpenWrt system. So
   * [Software](Introduction.md#software) 
 
 * [Quick Start](QuickStart.md)
-  * [WisAvs](QuickStart.md#wisAvs)
-  * [WisAp](QuickStart.md#wisAp)
-  * [WisGw](QuickStart.md#wisGw)
+  * [WisAvs](../../wiki/WisAvs)
+  * [WisAp](../../wiki/WisAp)
+  * [WisGw](../../wiki/WisHgw)
 
 
 * [Programming guide](ProgrammingGuide.md)
