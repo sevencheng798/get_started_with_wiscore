@@ -16,5 +16,5 @@ This SDK is for WisCore hardware development platform base on OpenWrt system. So
 
 
 * [Programming guide](ProgrammingGuide.md)
-  * [How to burn firmware to wiscore board]()
+  * [How to burn firmware to wiscore board](https://github.com/sevencheng798/get_started_with_wiscore/wiki/Burn-firmware-to-WisCore-Board)
     
